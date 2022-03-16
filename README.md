@@ -13,4 +13,6 @@ Obs: Estou fazendo esse post para fins de estudo. O WhatsApp não gosta desse ti
   <img src="src/assets/to_readme/Demonstração%20-%20automação%20wpp%2016.03.2022%20(GIF).gif" />
 </p>
 
+##### Acesse o código tutorial:
+[Clique aqui]("https://github.com/FelixMarcelo/Automation_WPPWEB_Python/blob/main/Automacao_wppWEB_python.ipynb")
 

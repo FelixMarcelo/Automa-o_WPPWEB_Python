@@ -6,13 +6,14 @@
 
 ##### Essa mesma lógica de automação pode ser usada para uma série de outras tarefas repetitivas no seu dia a dia. MANDA BALA. 
 
-##### *Obs: Estou fazendo esse post para fins de estudo. O WhatsApp não gosta desse tipo de automação e, a pesar de ser um código que simula uma ação humana, agindo em grande escala você pode perder seu número definitivamente.*
+##### *Obs: Estou fazendo esse post para fins de estudo. O WhatsApp não gosta desse tipo de automação e, a pesar de ser um código que simula uma ação humana, agindo em grande escala você poderá perder seu número definitivamente.*
 
 
 <p align="center">
   <img src="src/assets/to_readme/Demonstração%20-%20automação%20wpp%2016.03.2022%20(GIF).gif" />
 </p>
 
+##### O vídeo acima mostra o código enviando o documento para um dos contatos, e ele repetirá esse processo para todos os indivíduos presentes na lista de contatos. 
 ```ruby
 # Importando bibliotecas
 import time

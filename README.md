@@ -1,4 +1,4 @@
-## Automatizando WhatsApp Web com Python
+## Automatizando o WhatsApp Web com Python
 
 ##### Neste código eu fiz uma automação do WhatsApp Web para enviar um mesmo arquivo para várias pessoas, enviando juntamente com ele uma mensagem personalizada para cada contato. 
 

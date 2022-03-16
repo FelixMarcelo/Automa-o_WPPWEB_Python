@@ -14,5 +14,5 @@ Obs: Estou fazendo esse post para fins de estudo. O WhatsApp não gosta desse ti
 </p>
 
 ##### Acesse o código tutorial:
-[Clique aqui]("https://github.com/FelixMarcelo/Automation_WPPWEB_Python/blob/main/Automacao_wppWEB_python.ipynb")
+[Clique aqui](https://github.com/FelixMarcelo/Automation_WPPWEB_Python/blob/main/Automacao_wppWEB_python.ipynb)
 
